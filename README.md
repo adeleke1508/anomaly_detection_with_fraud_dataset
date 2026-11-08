@@ -127,4 +127,4 @@ os.environ["LOKY_MAX_CPU_COUNT"] = str(os.cpu_count())
 ## Author
 
 **Khaleed**
-[GitHub](https://github.com/adeleke1508) · [LinkedIn](https://linkedin.com/in/khaleed-ismail-272089299)
+[GitHub](https://github.com/adeleke1508) · [LinkedIn](www.linkedin.com/in/khaleed-ismail-14b572298)
